@@ -19,11 +19,11 @@
 pkg install python git termux-api -y
 
 # 2. Clone the Repo
-git clone https://github.com/Pankakumar8978/News-nexus-pro.git
+git clone https://github.com/Pankakumar8978/News-nexus-pro
 
-(https://github.com/Pankajkumar8978/News-nexus-pro.git)
+(https://github.com/Pankajkumar8978/News-nexus-pro)
 
 # 3. Run the Tool
-
+cd News-nexus-pro
 pip install -r requirements.txt
 python pronews.py
