@@ -6,6 +6,7 @@
 > Termux Optimized
 > Direct Browser Integration
 > Cyberpunk UI
+> Instagram: @krpankajchaudhary
 """
 
 import requests
